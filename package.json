@@ -18,7 +18,9 @@
 	"repository": "https://github.com/shinken-monitoring/pack-switch",
 	"keywords": [
 	  "pack",
-	  
+	  "network",
+	  "switch",
+	  "check_nwc_health"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
